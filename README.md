@@ -1,4 +1,4 @@
-#Features Of terminal
+Features Of terminal
 
 
     -Saves against the attack of adding multiple spaces at the beginning or in the middle of Commands
@@ -11,7 +11,7 @@
     -Can give multiple command options simultaneously!!
     -Creates a child process for external commands using fork, wait and execv!
 
-#Internal Commands: 
+Internal Commands: 
 
 
     -cd
@@ -49,7 +49,7 @@
         -Special Features
             -Works with preceding spaces
 
-#External Commands:
+External Commands:
 
 
     -ls
